@@ -31,7 +31,7 @@ composer install
 or
 
 ```
-composer install
+composer update
 ```
 
 -then copy file .env.example and rename to .env
